@@ -1,0 +1,7 @@
+# Introducción
+
+El mercado automotriz es un ecosistema dinámico donde los consumidores toman decisiones basadas en una variedad de características y preferencias. Factores como la marca, el modelo, el año de fabricación, el tipo de motor, y otras especificaciones técnicas no solo influyen en la decisión de compra, sino también en la percepción del valor del vehículo. Entender cómo estas características impactan el comportamiento del consumidor y, en última instancia, determinan el precio de un automóvil es fundamental tanto para fabricantes como para distribuidores que buscan posicionarse estratégicamente en el mercado.
+
+Este trabajo se centra en el análisis de un conjunto de datos detallados sobre automóviles, explorando las tendencias de preferencia de los consumidores y los factores clave que moldean los precios en el sector. A través de técnicas de análisis de datos, se identificarán patrones y relaciones entre las propiedades de los vehículos y su valor en el mercado, lo que permitirá responder preguntas esenciales: ¿Cuáles son las características más valoradas por los compradores? ¿Es posible predecir el precio de un automóvil basándose únicamente en sus especificaciones?
+
+Este enfoque no solo contribuirá a una mejor comprensión de las dinámicas del mercado automotriz, sino que también podría ser útil para el diseño de estrategias comerciales más efectivas, la optimización de la oferta de productos y la alineación con las expectativas del consumidor moderno.
